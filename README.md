@@ -15,4 +15,6 @@ SQL inherently follows little structure - considering different variable names, 
 This project is to see and analyze how different models[Feedforward,LSTM, LSTM with attention, Transforerms and LLMS] would yield different outputs given different inputs. 
 I am preparing a website to visualise this process better- however I'll have some of the models in their respective repositories, to give an idea!
 
+I have used the ATIS dataset to train these particular models. 
+
 Any suggestions are welcome on my mail id: dhruvlawaniya2510@gmail.com
